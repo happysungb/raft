@@ -94,7 +94,7 @@ streamlit run app.py
 
 This project is part of a series on distributed systems:
 
-👉 Raft Leader Election: How a Distributed System Chooses a Leader  
+👉 [Raft Leader Election: How a Distributed System Chooses a Leader](https://medium.com/@ellieroh0610/raft-leader-election-how-a-distributed-system-chooses-a-leader-92f6682217b1)  
 
 ---
 
