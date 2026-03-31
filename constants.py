@@ -1,0 +1,7 @@
+FOLLOWER = "Follower"
+CANDIDATE = "Candidate"
+LEADER = "Leader"
+
+MIN_TIMEOUT = 5
+MAX_TIMEOUT = 10
+HEARTBEAT_INTERVAL = 2
